@@ -1,0 +1,11 @@
+{
+  "database": {
+    "default": {
+      "host": "mongodb.we-meeting.svc",
+      "port": 27017,
+      "name": "im-main",
+      "username": "imdbroot",
+      "password": "lkimcore$mustbeawesome#2017"
+    }
+  }
+}
